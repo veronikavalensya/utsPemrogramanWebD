@@ -1,0 +1,10 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  background-color: rgb(186, 3, 85);
+}
+
+#Education {
+  background-color: rgb(245, 19, 121);
+}
